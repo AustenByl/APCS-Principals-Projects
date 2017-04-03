@@ -1,0 +1,9 @@
+questions.txt
+
+CS50 AP
+Fifteen
+
+0. Anything from 3 * 3 to 9 * 9
+1. It is represented by an array
+2. gree();
+3. init(); draw(); move(); and  won();
